@@ -1,0 +1,2 @@
+Scheme name;Scheme options;Evaluation mode;Unclassified instances;Mean absolute error;Root mean squared error;Relative absolute error;Root relative squared error;Total number of instances
+ScikitLearnClassifier;-batch 100 -learner LinearRegression -parameters copy_X=True,fit_intercept=True,n_jobs=1,normalize=False;separate_test_set;0.0;7.877162861;9.923256785;0.9921267747;�;�
